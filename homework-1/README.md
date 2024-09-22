@@ -6,3 +6,5 @@ Before running, please install all dependencies with following command:
 ```bash
 pip install --upgrade -r requirements.txt
 ```
+
+Solution can be found in [homework.ipynb](homework.ipynb).
