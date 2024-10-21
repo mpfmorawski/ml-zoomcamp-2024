@@ -12,4 +12,4 @@ COPY src/question6-server.py server.py
 
 EXPOSE 5000
 
-ENTRYPOINT ["gunicorn", "--bind=localhost:5000", "server:app"]
+ENTRYPOINT ["gunicorn", "--bind=0.0.0.0:5000", "server:app"]
