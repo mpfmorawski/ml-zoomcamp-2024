@@ -174,5 +174,5 @@ python src/question6.py
 Output:
 
 ```text
-
+0.757
 ```
