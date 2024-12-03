@@ -6,10 +6,16 @@ This repository contains my solutions to the homework assignments from the [ML Z
 
 ## Development
 
-All solutions were developed using GitHub Codespaces, a cloud-based development environment that eliminates the need for local setup. With Codespaces, you can quickly start coding directly in your browser or in Visual Studio Code. Here’s how to get started:
+### Homeworks 1-6
+
+Solutions to homeworks 1-6 were developed using GitHub Codespaces, a cloud-based development environment that eliminates the need for local setup. With Codespaces, you can quickly start coding directly in your browser or in Visual Studio Code. Here’s how to get started:
 
 1. Click on the Code button.
 2. Select the Codespaces tab.
 3. Click on "Create codespace on main".
 4. Wait for the codespace to initialize
 5. Start developing directly in your browser or open your codespace in Visual Studio Code Desktop
+
+### Homework 8
+
+Solutions to homework 8 were developed locally.
